@@ -65,22 +65,22 @@ void loop() {
 ------------------------------------------------------------------------------
 How It Works
 1. Internal Pull-Up
-	• INPUT_PULLUP holds the pin at HIGH by default.
-	• Pressing the button connects the pin to GND → reads LOW.
+	- INPUT_PULLUP holds the pin at HIGH by default.
+	- Pressing the button connects the pin to GND → reads LOW.
 2. Button Reading
-	• digitalRead(buttonPin) returns:
-	• LOW (0) when pressed
-	• HIGH (1) when released
+	- digitalRead(buttonPin) returns:
+	- LOW (0) when pressed
+	- HIGH (1) when released
 3. LED Control
-	• If buttonState == LOW → LED ON
-	• Otherwise → LED OFF
+	- If buttonState == LOW → LED ON
+	- Otherwise → LED OFF
 
 ⸻-----------------------------------------------------------------------------
 
 🚀 Next Steps
-	• Toggle Mode: Change the code so one press toggles the LED state (on/off).
-	• Add Feedback: Use the Serial Monitor to print button states for debugging.
-	• Expand Controls: Connect multiple buttons to control multiple LEDs or other devices.
+	- Toggle Mode: Change the code so one press toggles the LED state (on/off).
+	- Add Feedback: Use the Serial Monitor to print button states for debugging.
+	- Expand Controls: Connect multiple buttons to control multiple LEDs or other devices.
 
  ---------------------------------------------------------------------------------
 
