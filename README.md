@@ -78,4 +78,4 @@ How It Works
 ⸻-----------------------------------------------------------------------------
 
 Author
-Nattacha Longthong - aspiring-tech engineer
+Nattacha Longthong - Aspiring computer engineer interested in embedded systems and space technology.
