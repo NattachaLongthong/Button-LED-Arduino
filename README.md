@@ -5,6 +5,11 @@ Control an LED with a push button using Arduino UNO.
 # Button-Controlled LED System using Arduino UNO
 
 A simple Arduino project that lets you turn an onboard or external LED on and off using a push-button. Great for learning digital input/output and pull-up resistors, and building a portfolio for future space-tech or embedded systems work.
+ 
+This project is part of a learning path in embedded systems and basic electronics.
+
+![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)  
+[View License](./LICENSE)
 
 --------------------------------------------------------
 
