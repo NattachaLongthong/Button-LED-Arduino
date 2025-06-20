@@ -63,7 +63,14 @@ void loop() {
 }
 ```
 ------------------------------------------------------------------------------
-How It Works
+## 📸 Real Project Photo
+
+![Button LED Project](LED2.1.jpg)
+![Button LED Project](LED2.2.jpg)
+This is the actual breadboard setup for the button-controlled LED system.
+
+-------------------------------------------------------------------------------
+**How It Works**
 1. Internal Pull-Up
 	- INPUT_PULLUP holds the pin at HIGH by default.
 	- Pressing the button connects the pin to GND → reads LOW.
