@@ -89,6 +89,9 @@ This is the actual breadboard setup for the button-controlled LED system.
 
 ⸻-----------------------------------------------------------------------------
 
-Author
+**Author**
 	Nattacha Longthong 
 - Aspiring computer engineer interested in embedded systems and space technology.
+
+**My profile**
+  https://github.com/NattachaLongthong
