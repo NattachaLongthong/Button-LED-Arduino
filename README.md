@@ -77,12 +77,5 @@ How It Works
 
 ⸻-----------------------------------------------------------------------------
 
-🚀 Next Steps
-	- Toggle Mode: Change the code so one press toggles the LED state (on/off).
-	- Add Feedback: Use the Serial Monitor to print button states for debugging.
-	- Expand Controls: Connect multiple buttons to control multiple LEDs or other devices.
-
- ---------------------------------------------------------------------------------
-
 Author
 Nattacha Longthong - aspiring-tech engineer
