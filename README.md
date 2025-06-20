@@ -61,7 +61,7 @@ void loop() {
     digitalWrite(ledPin, LOW);       // Turn LED off
   }
 }
-
+```
 ------------------------------------------------------------------------------
 How It Works
 	1.	Internal Pull-Up
